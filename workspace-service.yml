@@ -15,8 +15,8 @@ spring:
 
 minio:
   url: http://localhost:9000
-  access-key: ${MINIO_ROOT_USER}
-  secret-key:  ${MINIO_ROOT_PASSWORD}
+  access-key:  minioadmin
+  secret-key:  minioadmin123
   project-bucket: projects
 
 ---
