@@ -24,7 +24,7 @@ spring:
   datasource:
     url: jdbc:postgresql://pgvector.lovable-core.svc.cluster.local:5432/account_db
     username: account_user
-    password: ${DB_PASSWORD}
+    password: ${ACCOUNT_DB_PASSWORD}
 
 
 stripe:
