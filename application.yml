@@ -62,7 +62,7 @@ spring:
     activate:
       on-profile: k8s
   kafka:
-    bootstrap-servers: kafka.distributed-ai-core.svc.cluster.local:9092
+    bootstrap-servers: kafka.lovable-core.svc.cluster.local:9092
   cloud:
     discovery:
       enabled: false
