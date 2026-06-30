@@ -39,5 +39,5 @@ spring:
       base-url: https://openrouter.ai/api
       chat:
         options:
-          model: openai/gpt-5.4-mini
+          model: google/gemini-2.0-flash
           temperature: 0.0
