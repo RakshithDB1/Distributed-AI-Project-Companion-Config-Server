@@ -39,4 +39,4 @@ spring:
       base-url: https://openrouter.ai/api
       chat:
         options:
-          model: openai/gpt-4o-mini
+          model: anthropic/claude-opus-4.7
