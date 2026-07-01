@@ -39,5 +39,5 @@ spring:
       base-url: https://openrouter.ai/api/v1
       chat:
         options:
-          model:  gemini-3-flash-preview
+          model:  z-ai/glm-5.2
           temperature: 0.0
